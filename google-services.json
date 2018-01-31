@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "1045622891871",
-    "firebase_url": "https://ambulance-tracking-6c77d.firebaseio.com",
-    "project_id": "ambulance-tracking-6c77d",
-    "storage_bucket": "ambulance-tracking-6c77d.appspot.com"
+    "project_number": "779525013578",
+    "firebase_url": "https://emergency-tracking.firebaseio.com",
+    "project_id": "emergency-tracking",
+    "storage_bucket": "emergency-tracking.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1045622891871:android:aab6a4e012bc9f8f",
+        "mobilesdk_app_id": "1:779525013578:android:9d0c4e111e337bd6",
         "android_client_info": {
-          "package_name": "com.emergency.ambulence"
+          "package_name": "com.emergency.medicaltrack"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1045622891871-reaqj486scp5fjc48c2suel51o8ubl9g.apps.googleusercontent.com",
+          "client_id": "779525013578-bt2qcguqufp1qa03qmf4943tf4jcpg32.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.emergency.ambulence",
-            "certificate_hash": "1375e0f170d54686bae68fb59647ed2d1b9cd1eb"
+            "package_name": "com.emergency.medicaltrack",
+            "certificate_hash": "0bcf510dacf8a01953f655e6ab13f4fa5a58d2cd"
           }
         },
         {
-          "client_id": "1045622891871-7m6l193gitj3jeepp1b7na8omg38eapi.apps.googleusercontent.com",
+          "client_id": "779525013578-7ggp23c8qh5f019ts24hfnuf80ut9l91.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD8Ozs4_wDkKDjTlnV4B-T0msSiBGkocpY"
+          "current_key": "AIzaSyCXCyXzdfXL3u3rA1PJ6Qri8s9CnurUra0"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "1045622891871-7m6l193gitj3jeepp1b7na8omg38eapi.apps.googleusercontent.com",
+              "client_id": "779525013578-7ggp23c8qh5f019ts24hfnuf80ut9l91.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
